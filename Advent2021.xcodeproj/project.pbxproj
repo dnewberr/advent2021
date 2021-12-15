@@ -15,6 +15,7 @@
 		CD58BFB2276591F10041F8B1 /* Day12.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD58BFB1276591F10041F8B1 /* Day12.swift */; };
 		CD58BFB62765D9A30041F8B1 /* Day13.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD58BFB52765D9A30041F8B1 /* Day13.swift */; };
 		CD58BFB827671C120041F8B1 /* Day14.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD58BFB727671C120041F8B1 /* Day14.swift */; };
+		CD9AE05F2769E3F90088F38F /* Day16.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9AE05E2769E3F90088F38F /* Day16.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		CD58BFB1276591F10041F8B1 /* Day12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day12.swift; sourceTree = "<group>"; };
 		CD58BFB52765D9A30041F8B1 /* Day13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day13.swift; sourceTree = "<group>"; };
 		CD58BFB727671C120041F8B1 /* Day14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day14.swift; sourceTree = "<group>"; };
+		CD9AE05E2769E3F90088F38F /* Day16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day16.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 			children = (
 				CD2CDD692762F31F003A9AD1 /* Resources */,
 				CD2CDD602762F1C0003A9AD1 /* main.swift */,
+				CD9AE05E2769E3F90088F38F /* Day16.swift */,
 				CD4F1D0D2769A67800E12E50 /* Day15.swift */,
 				CD58BFB727671C120041F8B1 /* Day14.swift */,
 				CD58BFB52765D9A30041F8B1 /* Day13.swift */,
@@ -151,6 +154,7 @@
 			files = (
 				CD58BFB62765D9A30041F8B1 /* Day13.swift in Sources */,
 				CD58BFB2276591F10041F8B1 /* Day12.swift in Sources */,
+				CD9AE05F2769E3F90088F38F /* Day16.swift in Sources */,
 				CD4F1D0E2769A67800E12E50 /* Day15.swift in Sources */,
 				CD2CDD682762F1DA003A9AD1 /* Day10.swift in Sources */,
 				CD5532CB276531A20099F58D /* Day11.swift in Sources */,
